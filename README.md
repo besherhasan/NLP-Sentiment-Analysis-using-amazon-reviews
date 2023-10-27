@@ -15,6 +15,10 @@ This project focuses on sentiment analysis using Amazon product reviews. It expl
 - Matplotlib
 - Seaborn
 
+  
+![Testing Another Model](path/to/Testing%20Another%20Model.png)
+![Testing the Model](path/to/Testing%20the%20Model.png)
+
 Install the required dependencies using the `requirements.txt` file.
 
 ```bash
