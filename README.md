@@ -16,8 +16,9 @@ This project focuses on sentiment analysis using Amazon product reviews. It expl
 - Seaborn
 
 
-![Testing Another Model](Testing%20Another%20Model.png)
+![Testing Another Model](Testing Another Model.png)
 ![Testing the Model](Testing%20the%20Model.png)
+
   
 Install the required dependencies using the `requirements.txt` file.
 
