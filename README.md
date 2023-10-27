@@ -15,6 +15,9 @@ This project focuses on sentiment analysis using Amazon product reviews. It expl
 - Matplotlib
 - Seaborn
 
+
+![Testing Another Model](Testing%20Another%20Model.png)
+![Testing the Model](Testing%20the%20Model.png)
   
 Install the required dependencies using the `requirements.txt` file.
 
@@ -44,6 +47,5 @@ Transformers Pipeline
 To make sentiment predictions using the Transformers library, a pipeline is set up for quick and easy sentiment analysis without manually configuring models. Example predictions using this pipeline are provided in the notebook.
 
 
-![Testing Another Model](path/to/Testing%20Another%20Model.png)
-![Testing the Model](path/to/Testing%20the%20Model.png)
+
 
