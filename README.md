@@ -16,9 +16,6 @@ This project focuses on sentiment analysis using Amazon product reviews. It expl
 - Seaborn
 
   
-![Testing Another Model](path/to/Testing%20Another%20Model.png)
-![Testing the Model](path/to/Testing%20the%20Model.png)
-
 Install the required dependencies using the `requirements.txt` file.
 
 ```bash
@@ -45,3 +42,8 @@ You can run the project in a Jupyter Notebook environment. Follow the code in th
 
 Transformers Pipeline
 To make sentiment predictions using the Transformers library, a pipeline is set up for quick and easy sentiment analysis without manually configuring models. Example predictions using this pipeline are provided in the notebook.
+
+
+![Testing Another Model](path/to/Testing%20Another%20Model.png)
+![Testing the Model](path/to/Testing%20the%20Model.png)
+
