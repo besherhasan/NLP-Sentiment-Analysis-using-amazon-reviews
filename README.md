@@ -16,6 +16,8 @@ This project focuses on sentiment analysis using Amazon product reviews. It expl
 - Seaborn
 
 
+## The images below shows the testing of the models
+
 ![Testing Another Model](./Testing%20another%20model.png)
 ![Testing the Model](./Testing%20the%20model.png)
 
